@@ -2,9 +2,9 @@
 
 # `AC` Arquitectura de Computadores
 
-| Nombre                | Ingeniería de Servidores                                     |
+| Nombre                |  Arquitectura de Computadores                                |
 | --------------------- | ------------------------------------------------------------ |
-| Abreviatura           | `AC`                                                        |
+| Abreviatura           | `AC`                                                         |
 | Grado correspondiente | Ingeniería Informática                                       |
 | Facultad              | Escuela Técnica Superior de Ingeniería Informática y de Telecomunicación (ETSIIT) |
 | Universidad           | Universidad de Granada                                       |
