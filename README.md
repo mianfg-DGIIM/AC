@@ -1,6 +1,6 @@
-[⬅ Más asignaturas del DGIIM](https://github.com/mianfg/DGIIM)
+[⬅ Más asignaturas del DGIIM](https://github.com/mianfg-DGIIM)
 
-![Repo image](https://repository-images.githubusercontent.com/261719251/6b7e3680-eae7-11ea-96df-1c7b26a8e458)
+![Repo image](https://repository-images.githubusercontent.com/261719251/62c16391-81a7-4628-bf32-c91738ef1ac7)
 
 # `AC` Arquitectura de Computadores
 
